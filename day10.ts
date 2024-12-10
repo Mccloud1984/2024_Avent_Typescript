@@ -3,10 +3,6 @@
 
 /*Fixed Code */
 enum Gift {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> cab98956fe840ef560e1201aa7011298d9de0b96
   Coal = 0b0,
   Train = 0b1,
   Bicycle = 0b10,
@@ -16,20 +12,6 @@ enum Gift {
   Traditional = 0b11,
   OnTheMove = 0b11010,
   OnTheCouch = 0b11100,
-<<<<<<< HEAD
-=======
-=======
-  Coal = 0,
-  Train = 1,
-  Bicycle = 2,
-  SuccessorToTheNintendoSwitch = 4,
-  TikTokPremium = 8,
-  Vape = 16,
-  Traditional = 3,
-  OnTheMove = 26,
-  OnTheCouch = 28,
->>>>>>> 7acdbe883be1784b8064ff95f5fc9c2a782b91ce
->>>>>>> cab98956fe840ef560e1201aa7011298d9de0b96
 }
 
 //* TESTS CODE ABOVE */
